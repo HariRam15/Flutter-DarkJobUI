@@ -1,6 +1,8 @@
-# assignment
+# Flutter - Dark Job UI
 
-A new Flutter project.
+<img src="assets/images/Screenshot (17).png">
+
+Design Credits to: https://dribbble.com/shots/14385357-Dark-Job-UI
 
 ## Getting Started
 
